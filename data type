@@ -1,0 +1,14 @@
+public class Main {
+  public static void main(String[] args) {
+    int intA = 6;            
+    float FloatB = 4.87f;    
+    char LetterC = 'H';         
+    boolean BoolD = true;       
+    String TextE = "Hello";       
+    System.out.println(intA);
+    System.out.println(FloatB);
+    System.out.println(LetterC);
+    System.out.println(BoolD);
+    System.out.println(TextE);
+  }
+}
